@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ezher-memeti
+👋 Hi, I’m Ezher Memeti
