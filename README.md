@@ -12,4 +12,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezher-memeti&layout=compact&theme=tokyonight)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)](https://open.spotify.com/user/your_spotify_id)
+### 🎵 Apple Music
+[Listen on Apple Music](https://music.apple.com/us/album/YOUR_ALBUM_ID)
