@@ -6,5 +6,5 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠 Tech Stack
+## 🛠 Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ezher-memeti&show_icons=true&theme=radical)
